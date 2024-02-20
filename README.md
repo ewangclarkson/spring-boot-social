@@ -1,1 +1,1 @@
-# spring-boot-social-
+# Google and Github social login with spring oauth2

@@ -5,3 +5,14 @@ server:
 spring:
   application:
     name: Socialite
+
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv1.89f5934e2356b410
+            clientSecret: c60f7d4a09dfedf69564df06ac56d940c0fc70cb
+          google:
+            clientId: 805593408746-emi7pnkl3eo60apa3b9bj7bhrhp0i512.apps.googleusercontent.com
+            clientSecret: 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
